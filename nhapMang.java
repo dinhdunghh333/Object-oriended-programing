@@ -24,6 +24,7 @@ public class nhapMang {
 				System.out.print(a[i]+" ");
 		int min=a[0];
 		int pos=0;
+		//Daikooh
 		for(int i=0;i<n;i++) {
 			if(min>a[i])
 			{
